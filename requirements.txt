@@ -1,5 +1,6 @@
 opencv-python
 tensorflow==1.14.0
 keras==2.2.4
+imgaug==0.2.6
 scikit-learn
 scipy==1.2.0
